@@ -83,9 +83,15 @@ https://github.com/takfarine/NovoLSTM
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takfarine&theme=github_dark&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800&v=1"/>
-
+  <img src="https://streak-stats.demolab.com?user=takfarine&theme=github-dark&hide_border=true" />
 </p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=takfarine&theme=github-compact&hide_border=true" />
+</p>
+
 
 
 <p align="center">
